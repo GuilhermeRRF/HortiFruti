@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
         "codigo_projeto/HortiFruti/src/codigo",
-        "codigo_projeto/HortiFruti/src"
-    ]
+        "codigo_projeto/HortiFruti/src",
+        "codigo_hortifruti/src"
+    ],
+    "java.help.shareDiagnostics": true
 }
